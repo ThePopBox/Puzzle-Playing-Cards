@@ -135,7 +135,7 @@ This project was developed as a fully playable commercial Steam release and was 
 </ul>
 <b>Turn Validation</b>
 <br>Preventing illegal moves while maintaining smooth UX
-<b>Wildcard interaction Complexty</b>
+<br><b>Wildcard interaction Complexty</b>
 <br>Handling multiple player targeting actions required dynamic hand reassignment and replication validation
 <hr>
 

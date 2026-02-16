@@ -15,4 +15,7 @@ Puzzle Playing Cards is an interactive card game where players try to collect pu
 <br>This project was developed as a fully playable commercial Steam release and was designed as the test pilot for the long-term platform expansion, planned for educational integrations and repository-based deck systems
 
 # Gameplay Media
-[![Puzzle Playing Cards Gameplay Trailer](readme_assets/thumbnail.jpg)](https://www.youtube.com/watch?v=q5qcjPnpRVA)
+## 🎬 Trailer
+[![Watch the Trailer](https://img.youtube.com/vi/q5qcjPnpRVA/0.jpg)](https://www.youtube.com/watch?v=q5qcjPnpRVA)
+
+

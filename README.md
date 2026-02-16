@@ -39,11 +39,11 @@ This project was developed as a fully playable commercial Steam release and was 
 <hr>
 
 # Gameplay Media
-## 🎬 Trailer
+## Trailer
 [![Watch the Trailer](https://img.youtube.com/vi/q5qcjPnpRVA/0.jpg)](https://www.youtube.com/watch?v=q5qcjPnpRVA)
 <hr>
 
-## 📷 Screenshots
+## Screenshots
 ![ScreenShot](readme_assets/ss1.jpg)
 ![ScreenShot](readme_assets/ss2.png)
 ![ScreenShot](readme_assets/ss3.jpg)

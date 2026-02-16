@@ -1,3 +1,7 @@
+![Steam](https://img.shields.io/badge/Available%20on-Steam-1b2838?logo=steam)
+![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-41459b?logo=unrealengine)
+
+
 # Puzzle Playing Cards
 Puzzle Playing Cards is an interactive card game where players try to collect puzzle pieces to complete individual puzzles of a specific theme. Each player aims to collect 4 puzzle pieces of a specific set to score points. Each card represents one quarter of the puzzle and contains both visual and informational content.
 <br>The Game Incorporates
